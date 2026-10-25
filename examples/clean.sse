@@ -1,0 +1,7 @@
+: synthetic heartbeat
+id:1
+data:hello
+
+event:update
+data:world
+
